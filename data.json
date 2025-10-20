@@ -1,0 +1,25 @@
+{
+  "AB1234": {
+    "serial": "AB1234",
+    "purity": "24K (.9999)",
+    "weight": "10g",
+    "batch": "B-2025-01",
+    "minted": "2025-10-01",
+    "description": "Limited batch, mirror finish.",
+    "images": [
+      "images/AB1234_front.jpg",
+      "images/AB1234_back.jpg"
+    ]
+  },
+  "CD5678": {
+    "serial": "CD5678",
+    "purity": "24K (.9999)",
+    "weight": "20g",
+    "batch": "B-2025-01",
+    "minted": "2025-10-05",
+    "description": "Security pattern engraving.",
+    "images": [
+      "images/CD5678_front.jpg"
+    ]
+  }
+}
